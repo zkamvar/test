@@ -35,7 +35,7 @@ jobs:
       - name: "Set up Pandoc"
         uses: r-lib/actions/setup-pandoc@v1
         with:
-          pandoc-version: "2.11.4"
+          pandoc-version: "2.15"
 
       - name: "Setup Lesson Engine"
         uses: carpentries/actions/setup-sandpaper@main
