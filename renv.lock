@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.1.1",
+    "Version": "4.1.2",
     "Repositories": [
       {
         "Name": "carpentries",
@@ -135,14 +135,8 @@
     "tinytex": {
       "Package": "tinytex",
       "Version": "0.34",
-      "Source": "CRAN",
+      "Source": "Repository",
       "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "tinytex",
-      "RemoteRef": "tinytex",
-      "RemoteRepos": "https://cran.rstudio.com",
-      "RemotePkgPlatform": "source",
-      "RemoteSha": "0.34",
       "Hash": "043daa786f4d254f0031534150e28d42"
     },
     "xfun": {
